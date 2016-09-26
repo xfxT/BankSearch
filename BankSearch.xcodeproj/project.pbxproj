@@ -15,6 +15,7 @@
 		BF0E1AF71D98F22E00BEF3C3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BF0E1AF51D98F22E00BEF3C3 /* LaunchScreen.storyboard */; };
 		BF0E1B001D98F2D600BEF3C3 /* bank.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF0E1AFF1D98F2D600BEF3C3 /* bank.txt */; };
 		BF0E1B031D98F2FA00BEF3C3 /* BankCardDataManager.m in Sources */ = {isa = PBXBuildFile; fileRef = BF0E1B021D98F2FA00BEF3C3 /* BankCardDataManager.m */; };
+		BF0E1B071D9902C000BEF3C3 /* BankSearch.gif in Resources */ = {isa = PBXBuildFile; fileRef = BF0E1B061D9902C000BEF3C3 /* BankSearch.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		BF0E1AFF1D98F2D600BEF3C3 /* bank.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = bank.txt; sourceTree = "<group>"; };
 		BF0E1B011D98F2FA00BEF3C3 /* BankCardDataManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BankCardDataManager.h; sourceTree = "<group>"; };
 		BF0E1B021D98F2FA00BEF3C3 /* BankCardDataManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BankCardDataManager.m; sourceTree = "<group>"; };
+		BF0E1B061D9902C000BEF3C3 /* BankSearch.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = BankSearch.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 		BF0E1AE71D98F22D00BEF3C3 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				BF0E1B061D9902C000BEF3C3 /* BankSearch.gif */,
 				BF0E1AE81D98F22E00BEF3C3 /* main.m */,
 			);
 			name = "Supporting Files";
@@ -153,6 +156,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BF0E1B071D9902C000BEF3C3 /* BankSearch.gif in Resources */,
 				BF0E1AF71D98F22E00BEF3C3 /* LaunchScreen.storyboard in Resources */,
 				BF0E1AF41D98F22E00BEF3C3 /* Assets.xcassets in Resources */,
 				BF0E1B001D98F2D600BEF3C3 /* bank.txt in Resources */,
